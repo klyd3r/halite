@@ -1,5 +1,5 @@
 # halite
-This is my submission for the halite-2 coding competition
+This is my submission for the halite-2 coding competition. My first ever project coding in Python, and I'm really thankful to have had such a fun project to work on. Special thanks to ewirkerman's BotThoughtViewer, which helped a lot in the initial debugging phases.
 
 # overview
 I took the approach of programming a generic RTS AI, where I broke down the components into micro-management strategies and overall macro-strategies. Macro-decisions would bring a ship close to an objective, and once it's close enough the micro-decisions would take over and decide what action that particular ship would take.

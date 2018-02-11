@@ -20,7 +20,9 @@ I submitted really often, given that I didn't have a very robust regression test
 
 versions
 1-100: Most of my macro and micro strategies were already in. I got to ~50 rank with these versions.
+
 ~200: I got to ~30 rank - by data mining my games and tweaking my rush parameters based on how many rush games I was winning vs. non-rush games
+
 ~270: I got to <20 rank - by mining my local replays I suddenly realized that I was losing too many ships through friendly collisions. I reworked my whole navigation and my rank significantly improved.
 
 The rest of my versions were just random minor tweaks - none of them significantly improved my bot.

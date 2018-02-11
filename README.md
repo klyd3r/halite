@@ -27,5 +27,7 @@ The rest of my versions were just random minor tweaks - none of them significant
 
 # learning points
 Running sims with cloud services - I should have engaged cloud computing services. My only form of regression testing was an A/B test with my previous bot, and even that took a while as 100 simulations could easily take up to half an hour. This could have drastically improved my idea generation/implementation/testing process
+
 Using the halite API earlier - I started using the API after the start of the new year, where I had less free time. I was able to write a number of scripts to parse the leaderboard data, download replays of my games and parse through those replays for useful information, but I believe there was probably a lot more information that I could have extracted but just didn't have the time for. It did allow me to focus on the right things going into the end of the competition (improving non-rush 2 player games and navigation), so it still worked out pretty well for me.
+
 Building more visualization, debugging tools - I would say I spent less than 3% of my time on this side project developing visualization and debugging tools. In hindsight, reading the other post mortems (expecially reCurs3's), these tools would've helped a ton.

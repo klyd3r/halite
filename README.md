@@ -1,5 +1,5 @@
 # halite
-This is my submission for the halite-2 coding competition. My first ever project coding in Python, and I'm really thankful to have had such a fun project to work on. Special thanks to ewirkerman's BotThoughtViewer, which helped a lot in the initial debugging phases.
+This is my submission for the halite-2 AI programming competition (http://halite.io). My first ever project coding in Python, and I'm really thankful to have had such a fun project to work on. Special thanks to ewirkerman's BotThoughtViewer, which helped a lot in the initial debugging phases.
 
 # background
 I'm an avid gamer, having played numerous RTSes (StarCraft/C&C series/Dota) growing up and am pretty familiar with general RTS strategy and concepts. I also have a some programming experience from school/work experiences, and wanted to use this as a way to write an entire project by myself and learn as much as I could along the way.

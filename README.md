@@ -2,7 +2,7 @@
 This is my submission for the halite-2 AI programming competition (http://halite.io). My first ever project coding in Python, and I'm really thankful to have had such a fun project to work on. Special thanks to ewirkerman's BotThoughtViewer, which helped a lot in the initial debugging phases.
 
 # background
-I'm an avid gamer, having played numerous RTSes (StarCraft/C&C series/Dota) growing up and am pretty familiar with general RTS strategy and concepts. I also have a some programming experience from school/work experiences, and wanted to use this as a way to write an entire project by myself and learn as much as I could along the way.
+I'm an avid gamer, having played numerous RTSes (StarCraft/C&C series/Dota) growing up and am pretty familiar with general RTS strategy and concepts. I also have some programming experience from school/work experiences, and wanted to use this as a way to write an entire project by myself and learn as much as I could along the way.
 
 # overview
 I took the approach of programming a generic RTS AI, where I broke down the components into micro-management strategies and overall macro-strategies. Macro-decisions would bring a ship close to an objective, and once it's close enough the micro-decisions would take over and decide what action that particular ship would take.
@@ -16,14 +16,14 @@ Loop through each ship, sorted by highest utility:
 2) Macro - if we're not close to any ship just move towards the highest utility target
 
 # version history
-I submitted really often, given that I didn't have a very robust regression testing framework and there was no real penalty for submitting more.
+I submitted really often, given that I didn't have a very robust regression testing framework and there was no real penalty for submitting frequently.
 
 versions
 1-100: Most of my macro and micro strategies were already in. I got to ~50 rank with these versions.
 
 ~200: I got to ~30 rank - by data mining my games and tweaking my rush parameters based on how many rush games I was winning vs. non-rush games
 
-~270: I got to <20 rank - by mining my local replays I suddenly realized that I was losing too many ships through friendly collisions. I reworked my whole navigation and my rank significantly improved.
+~270: I got to <20 rank - by parsing my local replays I suddenly realized that I was losing too many ships through friendly collisions. I reworked my whole navigation and my rank significantly improved.
 
 The rest of my versions were just random minor tweaks - none of them significantly improved my bot.
 
